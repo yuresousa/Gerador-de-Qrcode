@@ -1,2 +1,2 @@
-# geradordeqrcode
-gera Qrcode
+# Gerar Qrcode 
+
