@@ -9,7 +9,7 @@
   </ul>
   <li>pypng==0.0.20, PyQRCode==1.2.1</li>
   <ul>
-    <li>Para fazer a instalação dessas dependências execute o comando:<b> pip install -r requirements.txt</b>, dentro da pasta dos arquivos do programa.</li>
+    <li>Para fazer a instalação dessas dependências execute o comando:<b> pip install -r requirements.txt</b>, dentro do diretório dos arquivos do programa.</li>
   </ul>
 </ul>
 
